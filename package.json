@@ -24,8 +24,9 @@
   "homepage": "https://github.com/tarao/gulp-less-dependents",
   "devDependencies": {
     "gulp-util": "^3.0.0",
-    "should": "^4.3.0",
-    "mocha": "^2.0.0"
+    "mocha": "^2.0.0",
+    "q": "^1.1.2",
+    "should": "^4.3.0"
   },
   "dependencies": {
     "lodash": "^2.0.0",
